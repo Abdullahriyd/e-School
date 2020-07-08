@@ -16,6 +16,16 @@ body main{
     border: transparent;   
 }
 
+.allButton{
+    background:none;
+    width: 104px;
+    height: 43px;
+    font-weight:normal;
+    border: none;
+    outline: none; 
+    text-align: left;  
+}
+
 .GetStarted{
     background: #21B573;
     width: 153px;
